@@ -1,4 +1,4 @@
-![tarpit-logo](tarpit-logo.png)
+![tarpit-logo](tarpit-logo.png) 
 
 # Tarpit Java
 ### A web application seeded with vulnerabilities, rootkits, backdoors and data leaks
